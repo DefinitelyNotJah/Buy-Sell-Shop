@@ -1,0 +1,86 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "icon": "fas fa-users fa-fw",
+            "name": "Electronics",
+            "subCategories": [
+                {
+                    "id": 5,
+                    "name": "Cell Phones"
+                },
+                {
+                    "id": 6,
+                    "name": "Watches"
+                },
+                {
+                    "id": 7,
+                    "name": "Computers & Tablet"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "icon": "fas fa-users fa-fw",
+            "name": "Fashion",
+            "subCategories": [
+                {
+                    "id": 8,
+                    "name": "Men's Clothing"
+                },
+                {
+                    "id": 9,
+                    "name": "Women's Clothing"
+                },
+                {
+                    "id": 10,
+                    "name": "Jewelry"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "icon": "fas fa-users fa-fw",
+            "name": "Health & Beauty",
+            "subCategories": [
+                {
+                    "id": 11,
+                    "name": "Makeup"
+                },
+                {
+                    "id": 12,
+                    "name": "Health Care"
+                },
+                {
+                    "id": 13,
+                    "name": "Fragrances"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "icon": "fas fa-users fa-fw",
+            "name": "Motors",
+            "subCategories": [
+                {
+                    "id": 14,
+                    "name": "Car & Truck Parts"
+                },
+                {
+                    "id": 15,
+                    "name": "Motorcycle Parts"
+                },
+                {
+                    "id": 14,
+                    "name": "ATV Parts"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "icon": "fas fa-users fa-fw",
+            "name": "Others",
+            "subCategories": []
+        }
+    ]
+}
