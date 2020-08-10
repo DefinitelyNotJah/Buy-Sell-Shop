@@ -1,4 +1,4 @@
 {
 	"mongodbURL": "",
-	"backendURL": "http://35aabfcf17ab.ngrok.io/public/"
+	"backendURL": "http://BACKEND_URL/public/"
 }
