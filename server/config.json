@@ -1,4 +1,4 @@
 {
-	"mongodbURL": "mongodb+srv://test:test123@cluster0-hoenq.gcp.mongodb.net/twitter?retryWrites=true&w=majority",
+	"mongodbURL": "",
 	"backendURL": "http://35aabfcf17ab.ngrok.io/public/"
 }
